@@ -5,6 +5,8 @@
 #### Technologies Used 
 Python, Numpy, Pandas, PyTorch, Matplotlib, Scikit-Learn 
 
+#### Projects
+
 1. [Computer Vision Experiments with PyTorch](https://github.com/neelimaGATech/CompVision_Pytorch_Experiments)
 2. [Euro Satellite Image Processing for Land Usage](https://github.com/neelimaGATech/EuroSatelliteDataProcessing)
 3. [Satellite Image Segmentation for Water](https://github.com/neelimaGATech/SatelliteImageProcessing)
