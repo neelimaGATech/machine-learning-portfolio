@@ -1,4 +1,4 @@
-x# Data Science and Machine Learning Portfolio
+# Data Science and Machine Learning Portfolio
 
 #### This is the high level overview of all the Data Science and Machine Learning projects I have been working on. For more details about each of these projects, please follow the link and review the Readme document for the individual project. 
 
