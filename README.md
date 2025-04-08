@@ -9,9 +9,8 @@ Python, Numpy, Pandas, PyTorch, Matplotlib, Scikit-Learn
 
 1. [Large Language Model](https://github.com/neelimaGATech/LargeLanguageModel)
 
-  In this project, I’ve built a large language model from scratch using the transformer architecture. Each component of the transformer has been  
-  manually implemented to provide a clear understanding of how a language model functions. You can follow the code and comments in the Jupyter 
-  notebooks to explore the inner workings of the model.
+In this project, I’ve built a large language model from scratch using the transformer architecture. Each component of the transformer has been manually implemented to provide a clear understanding of how a language model functions. You can follow the code and comments in the Jupyter 
+notebooks to explore the inner workings of the model.
 
 3. [Computer Vision Experiments with PyTorch](https://github.com/neelimaGATech/CompVision_Pytorch_Experiments)
 4. [Euro Satellite Image Processing for Land Usage](https://github.com/neelimaGATech/EuroSatelliteDataProcessing)
